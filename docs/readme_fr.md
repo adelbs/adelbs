@@ -10,9 +10,13 @@ Hi there! Welcome to my world :alien:
     ·
     <a href="/docs/readme_pt-BR.md">Português</a>
     ·
-    <a href="/docs/readme_it.md">English</a>
+    <a href="/docs/readme_en.md">English</a>
+    <br><br>
+        Sorry my mistakes, I'm just starting to learn French :)
+
   </p>
 </p>
+
 
 <p align='center'>
 <a href="https://dev.to/adelbs"><img height="30" src="https://raw.githubusercontent.com/adelbs/adelbs/main/icons/dev.png"></a>&nbsp;&nbsp;
@@ -33,17 +37,17 @@ function Felipe() {
         CommonPerson.call(this); 
     } 
     catch(x) {
-        console.log('Definitivamente no es una persona normal ...');
+        console.log('Certainement pas une personne normale...);
     }
 
     this.name = 'Felipe';
     this.personality = [
-        'Yo uso punto y coma en JS', 
-        'Cabeza snorkel para adelante, siempre', 
-        'Café sin azucar',
-        'Soñador'];
+        'J'utilise des points-virgules dans JS', 
+        'Tuba toujours tourné vers l'avant', 
+        'Café sans sucre, s'il vous plaît',
+        'Rêveur'];
 
-    this.currentMission = 'Intentando refactorizar el mundo';
+    this.currentMission = 'Essayer de refactoriser le monde';
 } 
 
 console.log(new Felipe());
