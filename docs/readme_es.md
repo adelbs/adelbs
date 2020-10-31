@@ -51,3 +51,9 @@ function Felipe() {
 } 
 
 console.log(new Felipe());
+
+```
+<br>
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=adelbs"/>
+</p>
