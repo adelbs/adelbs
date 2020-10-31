@@ -1,6 +1,6 @@
 
 <h2 align='center'>
-Hi there! Welcome to my world :alien:
+Salut! Bienvenue dans mon monde :alien:
 </h2>
 <p align="center">
   <p align="center">
