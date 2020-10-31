@@ -10,7 +10,7 @@ Hi there! Welcome to my world :alien:
     ·
     <a href="/docs/readme_pt-BR.md">Português</a>
     ·
-    <a href="/docs/readme_it.md">English</a>
+    <a href="/docs/readme_en.md">English</a>
   </p>
 </p>
 
