@@ -20,6 +20,8 @@ Hola! Bienvenidos a mi mundo :alien:
 <a href="https://www.linkedin.com/in/felipejacob/"><img height="30" src="https://github.com/adelbs/adelbs/blob/main/icons/linkedin.png?raw=true"></a>
 &nbsp;
 <a href="https://open.spotify.com/user/adelbs?si=gHIlN5AlSMKLfs063DUjEQ"><img height="30" src="https://github.com/adelbs/adelbs/blob/main/icons/spotify.png?raw=true"></a>
+&nbsp;
+<a href="https://www.goodreads.com/user/show/59344121-felipe-jacob"><img height="30" src="https://github.com/adelbs/adelbs/blob/main/icons/goodreads.png?raw=true"></a>
 </p>
 
 
