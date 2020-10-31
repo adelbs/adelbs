@@ -42,10 +42,10 @@ function Felipe() {
 
     this.name = 'Felipe';
     this.personality = [
-        'J'utilise des points-virgules dans JS', 
-        'Tuba toujours tourné vers l'avant', 
-        'Café sans sucre, s'il vous plaît',
-        'Rêveur'];
+        `J'utilise des points-virgules dans JS`, 
+        `Tuba toujours tourné vers l'avant`, 
+        `Café sans sucre, s'il vous plaît`,
+        `Rêveur`];
 
     this.currentMission = 'Essayer de refactoriser le monde';
 } 
