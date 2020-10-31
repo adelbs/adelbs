@@ -11,8 +11,10 @@ Hi there! Welcome to my world :alien:
     <a href="/docs/readme_pt-BR.md">Português</a>
     ·
     <a href="/docs/readme_en.md">English</a>
+
   </p>
 </p>
+
 
 <p align='center'>
 <a href="https://dev.to/adelbs"><img height="30" src="https://raw.githubusercontent.com/adelbs/adelbs/main/icons/dev.png"></a>&nbsp;&nbsp;
@@ -33,14 +35,14 @@ function Felipe() {
         CommonPerson.call(this); 
     } 
     catch(x) {
-        console.log('Definitely not a common person...');
+        console.log('Definitely not a normal person...');
     }
 
     this.name = 'Felipe';
     this.personality = [
-        'I do use smicolons in JS', 
-        'Snorkel aways facing fowards', 
-        'Coffee without suggar, please',
+        'I do use semicolons in JS', 
+        'Snorkel always facing forwards', 
+        'Coffee without sugar, please',
         'Daydreamer'];
 
     this.currentMission = 'Trying to refactor the world';
