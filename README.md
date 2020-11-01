@@ -10,9 +10,7 @@
 
 ### IT Specialist & Mad about QA @ *Itau-Unibanco*
 Technology lover, intergalactic traveler, innovation hunter
-
 <br>
-
 Currently researching: <br>
 *#MachineLearning* *#SearchBasedSoftwareEngineering*
 
