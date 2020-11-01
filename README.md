@@ -8,7 +8,7 @@
 <a href="https://open.spotify.com/user/adelbs?si=gHIlN5AlSMKLfs063DUjEQ"><img height="30" src="https://github.com/adelbs/adelbs/blob/main/icons/spotify.png?raw=true"></a>
 <!-- </p> -->
 
-### IT Specialist & QA Freak @ *Itau-Unibanco*
+### IT Specialist & QA Freak @ [*Itau-Unibanco*](http://itau.com.br)
 Technology lover, intergalactic traveler, innovation hunter
 <br><br>
 Here you will find my studies and personal projects.
