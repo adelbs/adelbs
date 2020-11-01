@@ -1,7 +1,5 @@
 
 ## Hi folks! :alien:
-<br>
-
 <!-- <p align='center'> -->
 <!-- <a href="https://dev.to/adelbs"><img height="30" src="https://raw.githubusercontent.com/adelbs/adelbs/main/icons/dev.png"></a>&nbsp;&nbsp; -->
 <a href="https://www.linkedin.com/in/felipejacob/"><img height="30" src="https://github.com/adelbs/adelbs/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;
