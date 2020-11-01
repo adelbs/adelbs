@@ -1,5 +1,5 @@
 
-## Hi folks! :alien:
+## Hi folks! I'm Felipe :alien:
 <!-- <p align='center'> -->
 <!-- <a href="https://dev.to/adelbs"><img height="30" src="https://raw.githubusercontent.com/adelbs/adelbs/main/icons/dev.png"></a>&nbsp;&nbsp; -->
 <a href="https://www.linkedin.com/in/felipejacob/"><img height="30" src="https://github.com/adelbs/adelbs/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;
@@ -7,7 +7,6 @@
 <a href="https://instagram.com/felipisses"><img height="30" src="https://github.com/adelbs/adelbs/blob/main/icons/instagram.png?raw=true"></a>&nbsp;
 <a href="https://open.spotify.com/user/adelbs?si=gHIlN5AlSMKLfs063DUjEQ"><img height="30" src="https://github.com/adelbs/adelbs/blob/main/icons/spotify.png?raw=true"></a>
 <!-- </p> -->
-<br>
 
 ### IT Specialist & Mad about QA @ *Itau-Unibanco*
 Technology lover, intergalactic traveler, innovation hunter
