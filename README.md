@@ -11,6 +11,8 @@
 ### IT Specialist & QA Freak @ *Itau-Unibanco*
 Technology lover, intergalactic traveler, innovation hunter
 <br><br>
+Here you will find my studies and personal projects.
+
 Currently researching: <br>
 *#MachineLearning* *#SearchBasedSoftwareEngineering*
 
