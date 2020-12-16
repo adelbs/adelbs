@@ -16,30 +16,6 @@ Here you will find my studies and personal projects.
 Currently researching: <br>
 *#MachineLearning* *#SearchBasedSoftwareEngineering*
 
-``` javascript
-const SuperNerd = _=> {};
-function Felipe() {
-    try {
-        SuperNerd.call(this);
-        NormalPerson.call(this); 
-    } 
-    catch(x) {
-        console.log('\x1b[33m%s\x1b[0m', 
-            'Definitely not a normal person...');
-    }
-
-    this.personality = [
-        'I do use semicolons in JS', 
-        'Coffee? Without sugar, please',
-        'Addicted in building things', 
-        'Daydreamer'];
-
-    this.currentMission = 'Trying to refactor the world';
-} 
-
-console.log(new Felipe());
-
-```
 <br>
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=adelbs"/>
