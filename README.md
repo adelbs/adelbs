@@ -9,12 +9,12 @@
 <!-- </p> -->
 
 ### IT Specialist & QA Freak @ [*Itau-Unibanco*](http://itau.com.br)
-Technology lover, intergalactic traveler, innovation hunter
+Technology lover, innovation hunter
 <br><br>
 Here you will find my studies and personal projects.
 
 Currently researching: <br>
-*#MachineLearning* *#SearchBasedSoftwareEngineering*
+*#OpenBanking* *#SearchBasedSoftwareEngineering*
 
 <br>
 <p align='center'>
