@@ -1,17 +1,23 @@
 
-## Hi folks! I'm Felipe :alien:
-<!-- <p align='center'> -->
-<!-- <a href="https://dev.to/adelbs"><img height="30" src="https://raw.githubusercontent.com/adelbs/adelbs/main/icons/dev.png"></a>&nbsp;&nbsp; -->
-<a href="https://www.linkedin.com/in/felipejacob/"><img height="30" src="https://github.com/adelbs/adelbs/blob/main/icons/linkedin.png?raw=true"></a>&nbsp;
-<a href="https://www.goodreads.com/user/show/59344121-felipe-jacob"><img height="30" src="https://github.com/adelbs/adelbs/blob/main/icons/goodreads.png?raw=true"></a>&nbsp;
-<a href="https://instagram.com/felipisses"><img height="30" src="https://github.com/adelbs/adelbs/blob/main/icons/instagram.png?raw=true"></a>&nbsp;
-<a href="https://open.spotify.com/user/adelbs?si=gHIlN5AlSMKLfs063DUjEQ"><img height="30" src="https://github.com/adelbs/adelbs/blob/main/icons/spotify.png?raw=true"></a>
-<!-- </p> -->
+## Hi folks! I'm Jacob :alien:
 
-<br><br>
-Here you will find my studies and personal projects.
+<a href="https://www.linkedin.com/in/felipejacob/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.goodreads.com/user/show/59344121-felipe-jacob">![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)</a>
+<a href="https://instagram.com/felipisses">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://open.spotify.com/user/adelbs?si=gHIlN5AlSMKLfs063DUjEQ">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)</a>
 
 <br>
-<p align='center'>
+
+I've been working and having fun with technology for 20+ years. I love...
+- ...Marketing and Product Management
+- ...dealing with data
+- ...to explore the edge of webassembly
+- ...to create fancy VueJS frontends
+- ...programming while listening to Jazz
+
+<br>
+Here you will find some of my studies and personal projects.
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=adelbs"/>
-</p>
