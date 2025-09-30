@@ -8,13 +8,7 @@
 
 <br>
 
-I've been working and having fun with technology for 20+ years. I love...
-- ...dealing with data
-- ...to explore the edge of webassembly
-- ...to create fancy VueJS frontends
-- ...programming while listening to Jazz
-- ...Marketing and Product Management
-
+I've been working and having fun with technology for 20+ years.
 <br>
 Here you will find some of my studies and personal projects.
 
